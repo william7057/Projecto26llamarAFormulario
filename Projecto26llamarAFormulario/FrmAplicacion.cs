@@ -16,5 +16,23 @@ namespace Projecto26llamarAFormulario
         {
             InitializeComponent();
         }
+
+        private void FrmAplicacion_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        int x = 0;
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            
+            x = x + 1;
+            label5.Text = x.ToString();
+
+        }
     }
 }

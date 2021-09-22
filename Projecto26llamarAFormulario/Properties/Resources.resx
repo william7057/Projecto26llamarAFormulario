@@ -121,16 +121,22 @@
   <data name="forceexit_103817 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\forceexit_103817 (1).ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="forceexit_103817" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forceexit_103817.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="forceexit_1038171" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\forceexit_1038171.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="forceexit_103817" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\forceexit_103817.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="continue256_24871" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\continue256_24871.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fondo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondo1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fondo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="continue256_24871" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\continue256_24871.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1486348822-music-play-pause-control-go-arrow-blue_80476" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1486348822-music-play-pause-control-go-arrow-blue_80476.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
